@@ -1,0 +1,30 @@
+			Exam Results Report 				Sun Oct 13 19:36:40 EDT 2019
+
+Student Name 	 Letter Grade 	 Score 
+************  	 ************* 	 ***** 
+
+Bhawana Baskota 		B 	85.0
+Kaykai Baskota 		A 	95.0
+Nandi Baskota 		B 	84.0
+Jane McVey 		C 	75.0
+Brian Eno 		F 	45.0
+Daniel Lanois 		B 	87.0
+Paul Thomas 		D 	67.0
+Rob Jocabs 		F 	55.0
+Colton Mangon 		A 	99.0
+Spounge Bob 		B 	86.0
+Patrick Star 		D 	67.0
+Bobbie Hall 		A 	99.0
+Danny Chan 		C 	76.0
+Crystal Brown 		A 	92.0
+
+
+=================================================
+Total number of exams: 14
+Total number of A's    4
+Total number of B's    4
+Total number of C's    2
+Total number of D's    2
+Total number of F's    2
+Average Exam Score:    79.42857142857143
+=================================================

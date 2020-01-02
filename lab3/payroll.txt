@@ -1,0 +1,3 @@
+Name				Hours		Pay Rate		Gross Pay
+
+Total:                      5917.13

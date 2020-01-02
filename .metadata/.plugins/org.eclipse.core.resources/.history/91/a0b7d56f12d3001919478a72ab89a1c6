@@ -1,0 +1,47 @@
+package practice;
+
+import java.util.Random;
+import java.util.Scanner;
+
+public class project1 
+{
+
+	public static void main(String[] args) 
+	{
+		Scanner in = new Scanner(System.in);
+		
+		
+		System.out.println("Press A for Harrisburg, B for Carlisle, C for Lancaster");
+		char c = in.next().charAt(0); 
+		
+		Random rand = new Random();
+		Random y = new Random();
+		
+
+		
+		int n = rand.nextInt(7000);
+		int w = y.nextInt(700);
+
+		
+		n += 1;
+		
+		if (c == 'A')
+		{
+		
+		System.out.println("(717) " + w +"-" + n);
+
+		}
+		
+		if (c == 'B')
+		{
+			System.out.println("(818) " + w +"-" + n);
+		}
+		
+		if (c == 'C')
+		{
+			System.out.println("(919) " + w +"-" + n);
+		}
+
+
+}
+}

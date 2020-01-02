@@ -1,0 +1,4 @@
+Toilet paper, 2.29,5,
+Mop, 7.50
+,3,
+Scouring pads, 5.01,6
